@@ -1,7 +1,7 @@
 ## >---
 ## >Title: python comprehensions
 ## >Keywords: python comprehensions, zip function
-## >Author: Venkata Bhattaram
+## >Author: Sreelakshmi Radhakrishnan
 ## >---
 
 ## ># Python Comprehensions 
