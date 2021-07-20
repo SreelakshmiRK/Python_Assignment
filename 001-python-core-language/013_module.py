@@ -19,9 +19,7 @@
 # DEPENDANT-FILES : These are the files and libraries needed to run this program ;
 #                   013_module.py and 013_module_usage.py
 #
-# AUTHOR          : tinitiate.com / Venkata Bhattaram
-#                   (c) 2013
-#
+# AUTHOR          : Sreelakshmi Radhakrishnan
 # DESC            : Python Modules , used to organize code. 
 #
 #========================================================================================================
